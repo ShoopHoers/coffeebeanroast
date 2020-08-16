@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image {
+    width:"15%";
+}
+
+#image-centre-and-width {
+    width:"24%";
+    align:"centre";
+}
+
+#load-image-width {
+    width:"61%";
+}
+
+#coffee-bean-roast-colour-image {
+    width:"80%";
+}
+
+#coffee-bean-roast-colour-image-align-left {
+    width:"20%";
+    align:"left";
+}
+
+#Comments {
+    text-align:"centre";
+}
+
